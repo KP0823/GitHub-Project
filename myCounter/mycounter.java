@@ -3,6 +3,7 @@ public class mycounter
 {
     public static ArrayList <Integer> convert (String sentence)
     {
+        // this was soo inefficent when revising
         ArrayList<String> strTolen = new ArrayList<String>();
         strTolen.add("a");
         strTolen.add("b");
@@ -31,6 +32,7 @@ public class mycounter
         strTolen.add("y");
         strTolen.add("z");
         strTolen.add(" ");
+       
         ArrayList<Integer> mycon = new ArrayList<Integer>();
         String mynew;
         for(int i = 0; i <sentence.length(); i++)
