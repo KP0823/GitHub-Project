@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GuessTheNumber
+comment1.params=
+comment1.target=void\ checkMinValue()
+comment2.params=
+comment2.target=void\ checkMaxValue()
+comment2.text=public\ static\ void\ correctMin()\r\n\ \ \ {\r\n\ \ \ \ \ \ \ Scanner\ correction\ \=\ new\ Scanner(System.in);\r\n\ \ \ \ \ \ \ String\ convertion;\r\n\ \ \ \ \ \ \ System.out.println("Your\ min\ value\ was\ greater\ than\ the\ guessing\ value");\r\n\ \ \ \ \ \ \ System.out.println("Type\ a\ new\ min\ value");\r\n\ \ \ \ \ \ \ convertion\ \=\ correction.next();\r\n\ \ \ \ \ \ \ setMinGuess\=\ Integer.parseInt(convertion);\r\n\ \ \ \ \ \ \ checkMinValue();\r\n\ \ \ }\r\n
+comment3.params=b\ c
+comment3.target=void\ correct(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ gameRules()
+comment5.params=
+comment5.target=void\ startGame()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

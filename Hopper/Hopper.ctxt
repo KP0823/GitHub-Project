@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Hopper
+comment1.params=minjump\ maxjump
+comment1.target=void\ hop(int,\ int)
+comment2.params=p\ g\ mj\ mxj
+comment2.target=void\ jumping(int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=void\ addtodoc()
+comment4.params=c\ p\ g\ mj\ mxj
+comment4.target=void\ togoal(int,\ int,\ int,\ int,\ int)
+comment5.params=min\ max
+comment5.target=void\ togoalchange(int,\ int)
+comment6.params=
+comment6.target=void\ addtodocforc()
+comment7.params=
+comment7.target=void\ game()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

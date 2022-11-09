@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=BoxGui
+comment1.params=
+comment1.target=BoxGui()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=void\ setLength(int)
+comment3.params=x
+comment3.target=void\ setWidth(int)
+comment4.params=x
+comment4.target=void\ setHeight(int)
+comment5.params=
+comment5.target=int\ getlength()
+comment6.params=
+comment6.target=int\ getwidth()
+comment7.params=
+comment7.target=int\ getheight()
+comment8.params=
+comment8.target=int\ vol()
+comment9.params=
+comment9.target=void\ setupGui()
+numComments=11

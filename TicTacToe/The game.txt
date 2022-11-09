@@ -1,0 +1,8 @@
+Turn 1 Player x row 0 column 0 
+Turn 2 Player o row 1 column 1 
+Turn 3 Player x row 2 column 2 
+Turn 4 Player o row 1 column 0 
+Turn 5 Player x row 2 column 1 
+Turn 6 Player o row 0 column 2 
+Turn 7 Player x row 2 column 0 
+Turn 1 Player x row 1 column 2 

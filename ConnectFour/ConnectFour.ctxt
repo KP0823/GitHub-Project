@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ConnectFour
+comment1.params=
+comment1.target=char[][]\ makeboard()
+comment2.params=
+comment2.target=void\ printboard()
+comment3.params=player\ row\ col
+comment3.target=void\ placement(char,\ int,\ int)
+comment4.params=
+comment4.target=void\ checkwin()
+comment5.params=
+comment5.target=boolean\ checktie()
+comment6.params=
+comment6.target=void\ startgame()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

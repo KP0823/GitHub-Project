@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Meals
+comment1.params=cost\ meal\ many
+comment1.target=Meals(double,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=double\ getCost()
+comment3.params=
+comment3.target=java.lang.String\ getMeal()
+comment4.params=
+comment4.target=int\ getMany()
+comment5.params=x
+comment5.target=void\ setCost(double)
+comment6.params=x
+comment6.target=void\ setMeal(java.lang.String)
+comment7.params=x
+comment7.target=void\ setMany(int)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

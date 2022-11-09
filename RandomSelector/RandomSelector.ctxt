@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RandomSelector
+comment1.params=game
+comment1.target=void\ printarray(java.util.ArrayList)
+comment2.params=a\ game
+comment2.target=void\ addTolist(java.lang.String,\ java.util.ArrayList)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

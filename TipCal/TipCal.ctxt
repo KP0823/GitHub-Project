@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TipCal
+comment1.params=
+comment1.target=java.lang.String\ calcuateTip()
+comment2.params=start
+comment2.target=float\ controlmoney(double)
+comment3.params=
+comment3.target=void\ moneyperson()
+comment4.params=
+comment4.target=void\ tipss()
+comment5.params=
+comment5.target=void\ withouttips()
+comment6.params=
+comment6.target=void\ runscanners()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

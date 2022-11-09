@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=mycounter
+comment1.params=sentence
+comment1.target=java.util.ArrayList\ convert(java.lang.String)
+comment2.params=list
+comment2.target=java.lang.String\ lastcon(java.util.ArrayList)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Words
+comment1.params=list
+comment1.target=java.util.ArrayList\ words(java.lang.String[])
+comment2.params=list
+comment2.target=java.util.ArrayList\ pairs(java.lang.String[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

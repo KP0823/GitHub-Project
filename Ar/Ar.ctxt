@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ar
+comment1.params=my
+comment1.target=int\ arr(int[])
+comment2.params=first\ second
+comment2.target=int\ totalOfTwo(int[],\ int[])
+comment3.params=first\ second
+comment3.target=int\ fs(int[],\ int[])
+comment4.params=first\ second
+comment4.target=int\ jk(int[],\ int[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

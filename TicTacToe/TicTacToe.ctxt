@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment1.params=pl\ row\ col
+comment1.target=void\ checkspace(char,\ int,\ int)
+comment2.params=pl
+comment2.target=void\ tryagain(char)
+comment3.params=
+comment3.target=void\ showgrid()
+comment4.params=
+comment4.target=void\ checkwin()
+comment5.params=
+comment5.target=boolean\ checktie()
+comment6.params=pl\ row\ col
+comment6.target=void\ storedata(char,\ int,\ int)
+comment7.params=
+comment7.target=void\ gameon()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
