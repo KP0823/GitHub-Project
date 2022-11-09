@@ -5,6 +5,8 @@ public class GuessTyping
    public static String randomS="";
    public static String somewhat="";
    public static String alpha ="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890 ";
+   
+   //randomly picking letters and seeing how many times it takes to form this string. 
    public static void rand ()
    {
        int r = (int)(Math.random()*alpha.length());
